@@ -1,6 +1,6 @@
 # 리딩트리 (Reading Tree)  
 
-<img width="300" height="300" alt="KakaoTalk_Photo_2021-12-14-22-52-27" src="https://user-images.githubusercontent.com/74345861/146011492-70aa3dd3-c46d-4388-a85f-7dcb2575d627.png">
+<img width="200" height="200" alt="KakaoTalk_Photo_2021-12-14-22-52-27" src="https://user-images.githubusercontent.com/74345861/146011492-70aa3dd3-c46d-4388-a85f-7dcb2575d627.png">
 
 ### 프로젝트 소개  
 리딩트리는 독서를 즐기는 사람들 혹은 독후감을 작성하고자 하는 모든 사람들을 위한 독후감 작성 사이트이다. 
