@@ -9,7 +9,7 @@
 	<title>Edit Book Report</title>
 </head>
 <body>
-	<h1>기빙트리 (Giving Tree)</h1><br>
+	<h1>리딩트리 (Reading Tree)</h1><br>
 	<h2>독후감 수정하기</h2>
 	
 	<form:form commandName="LibraryVO" method="POST" action="../editok">

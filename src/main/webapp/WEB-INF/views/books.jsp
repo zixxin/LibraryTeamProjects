@@ -35,7 +35,7 @@
 </script>
 </head>
 <body>
-<h1>기빙트리 (Giving Tree)</h1>
+<h1>리딩트리 (Reading Tree)</h1>
 
 <table id="list" width="90%">
 <tr>

@@ -8,7 +8,7 @@
 </head>
 <body>
 
-	<h1>기빙트리 (Giving Tree)</h1><br>
+	<h1>리딩트리 (Reading Tree)</h1><br>
 	<h2>새로운 독후감 추가하기</h2>
 	<form action="addok" method="post">
 		<table>
