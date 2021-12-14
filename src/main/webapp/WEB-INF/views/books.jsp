@@ -49,13 +49,13 @@
 </tr>
 <c:forEach items="${list}" var="u">
 	<tr>
-		<td>${u.seq}</td>
+		<td>${u.id}</td>
 		<td>${u.title}</td>
 		<td>${u.genre}</td>
 		<td>${u.author}</td>
 		<td>${u.pubdate}</td>
-		<td><a href="editpost/${u.seq}">Edit</a></td>
-		<td><a href="javascript:delete_ok('${u.seq}')">Delete</a></td>
+		<td><a href="editpost/${u.id}">Edit</a></td>
+		<td><a href="javascript:delete_ok('${u.id}')">Delete</a></td>
 	</tr>
 </c:forEach>
 </table>
