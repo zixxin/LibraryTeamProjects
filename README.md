@@ -1,5 +1,7 @@
 # 리딩트리 (Reading Tree)  
 
+![KakaoTalk_Photo_2021-12-14-22-51-22](https://user-images.githubusercontent.com/74345861/146011197-6bdd1aba-b8da-48b6-ba2d-76f44c9186cf.png)
+
 ### 프로젝트 소개  
 리딩트리는 독서를 즐기는 사람들 혹은 독후감을 작성하고자 하는 모든 사람들을 위한 독후감 작성 사이트이다. 
 기존에 독후감을 쓰기 위해서는 손으로 직접 적거나, 메모장 같은 곳에 작성해야 했는데, 
