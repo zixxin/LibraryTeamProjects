@@ -3,7 +3,7 @@ package com.spring.library;
 import java.util.Date;
 
 public class LibraryVO {
-	private int seq;
+	private int id;
 	private String title;
 	private String genre;
 	private String author;
@@ -12,11 +12,11 @@ public class LibraryVO {
 	private String contents;
 	private int cnt;
 	
-	public int getSeq() {
-		return seq;
+	public int getId() {
+		return id;
 	}
-	public void setSeq(int seq) {
-		this.seq = seq;
+	public void setId(int id) {
+		this.id = id;
 	}
 	public String getTitle() {
 		return title;
