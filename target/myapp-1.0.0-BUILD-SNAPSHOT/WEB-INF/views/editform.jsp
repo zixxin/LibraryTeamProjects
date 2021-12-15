@@ -6,17 +6,21 @@
 <html>
 <head>
 <meta charset="UTF-8">
-	<title>Edit Post</title>
+	<title>Edit Book Report</title>
 </head>
 <body>
-	<h1>게시물 수정</h1>
+	<h1>리딩트리 (Reading Tree)</h1><br>
+	<h2>독후감 수정하기</h2>
 	
-	<form:form commandName="boardVO" method="POST" action="../editok">
+	<form:form commandName="LibraryVO" method="POST" action="../editok">
 		<form:hidden path="seq"/>
 		<table id="edit">
 			<tr><td>제목</td><td><form:input path="title"/></td></tr>
-			<tr><td>글쓴이</td><td><form:input path="writer"/></td></tr>
-			<tr><td>내용</td><td><form:input path="content"/></td></tr>
+			<tr><td>장르</td><td><form:input path="genre"/></td></tr>
+			<tr><td>저자</td><td><form:input path="author"/></td></tr>
+			<tr><td>출판사</td><td><form:input path="pub"/></td></tr>
+			<tr><td>출판년도</td><td><form:input path="pubdate"/></td></tr>
+			<tr><td>줄거리 및 느낀 점</td><td><form:input path="contents"/></td></tr>
 		</table>
 		
 		<input type="submit" value="수정하기"/>
